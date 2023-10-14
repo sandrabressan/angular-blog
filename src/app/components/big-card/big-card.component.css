@@ -17,6 +17,7 @@
 
 .big-card_description{
   margin-top: 20px;
+  text-align: justify;
 }
 
 .big-card_description > p > a{
